@@ -1,0 +1,13 @@
+*.pyn
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+.vscode
+btre_resources
+python_sandbox
+btre-resources.zip
+python-sandbox-starter.zip
+
